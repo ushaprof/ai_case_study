@@ -9,16 +9,16 @@ Waymo’s primary value proposition is its AI-driven autonomous driving technolo
 <br>
 ### Revenue Streams:
 <br>
-•**Waymo One:** Commercial ride-hailing services using autonomous vehicles in cities like Phoenix, AZ.
-•**Waymo Via:** Autonomous delivery and logistics services, partnering with companies like UPS.
-•**Licensing AI Technology:** Collaborations with automakers like Jaguar and Stellantis, integrating Waymo’s AI into traditional vehicles.
+**Waymo One:** Commercial ride-hailing services using autonomous vehicles in cities like Phoenix, AZ.
+**Waymo Via:** Autonomous delivery and logistics services, partnering with companies like UPS.
+**Licensing AI Technology:** Collaborations with automakers like Jaguar and Stellantis, integrating Waymo’s AI into traditional vehicles.
 <br>
 ## Market Segmentation:
 <br>
-•**Urban Mobility:** Targeting ride-hailing users in densely populated urban areas.
-•**Logistics and Delivery:** Businesses needing eJicient and reliable autonomous
+**Urban Mobility:** Targeting ride-hailing users in densely populated urban areas.
+**Logistics and Delivery:** Businesses needing eJicient and reliable autonomous
 delivery solutions.
-•**Automotive Partnerships:** Automakers seeking to integrate AI and autonomous
+**Automotive Partnerships:** Automakers seeking to integrate AI and autonomous
 technology into their vehicles.
        ______________________________________________________________________________
   
