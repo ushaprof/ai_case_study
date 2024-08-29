@@ -113,14 +113,15 @@ Waymo’s integration of AI into its business strategy has made it a leader in t
 2. AlphabetInc.(2023).Alphabet’sQ22023EarningsReport.RetrievedfromAlphabet Investor Relations.
 3. Bloomberg(2023).WaymoValuationReaches$30BillionasAutonomousDriving Leader. Retrieved from Bloomberg.
 4. TechCrunch(2023).WaymoRaises$3BillionfromExternalInvestors.Retrieved from TechCrunch.
-5. NationalHighwayTra]icSafetyAdministration(NHTSA).(2022).Automated Vehicles for Safety. Retrieved from NHTSA OJicial Website.
+5. NationalHighwayTrafficSafetyAdministration(NHTSA).(2022).Automated Vehicles for Safety. Retrieved from NHTSA OJicial Website.
 6. Reuters(2023).Waymo’sExpansionPlansandRegulatoryChallenges.Retrieved from Reuters.
 7. Gartner(2023).AutonomousVehicleMarketOverview:TrendsandForecasts. Retrieved from Gartner.
 8. UPSandWaymo.(2022).CollaboratingonAutonomousDelivery:ACaseStudy. Retrieved from UPS Press Release.
 9. TechCrunch(2016).Google’sSelf-DrivingCarUnitSpinsoutasWaymo.Retrieved from TechCrunch. 
 10. Forbes(2024).Waymo-has- 5-billion-google-ai-and-super-fans-can-amazon-tesla-and-uber-compete. Retrieved from Forbes.
 11. Stash (2024) Largest companies by market cap. Retrieved from Stash.
-12. Argonne National Laboratory(2024). New Science-Machine Partnerships. Retrieved from anl.gov
+12. Argonne National Laboratory(2024). New Science-Machine Partnerships. Retrieved from [anl.gov](https://www.anl.gov)
+
 
 ## WAYMO Appendices
 
