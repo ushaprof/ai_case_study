@@ -4,7 +4,8 @@
 <img src="https://github.com/ushaprof/ai_case_study/blob/main/Images/waymo_logo.png">
 ## WAYMO Origins and Background:
  Waymo, a subsidiary of Alphabet Inc., was spun out from Google’s self-driving car project in 2016. The company has focused on commercializing its AI-driven autonomous vehicle technology, targeting sectors like ride-hailing, logistics, and partnerships with automakers. Waymo’s mission is to make transportation safer and more accessible by leveraging advanced AI and machine learning.[TechCrunch](https://techcrunch.com/2016/07/08/googles-self-driving-car-project-has-a-new-legal-lead/)
- “Way forward in mobile” Waymo evolved from Google’s Chauffeur, co-founded by Anthony Levandowski and Sebastian Thrun.
+ 
+ “Way forward in mobile” Waymo evolved from Google’s Chauffeur, co-founded by Anthony Levandowski and Sebastian Thrun.[waymo]
  <br>
 
 ## WAYMO BUSINESS STRATEGY AND MODEL
