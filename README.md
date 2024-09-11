@@ -48,6 +48,9 @@ technology into their vehicles.
 
 ## Waymo’s Competitive Advantages:
 
+> “At this point, the fully autonomous driving industry is really just an industry of one: Waymo,” says John Krafcik, a former chief executive of Waymo and a member of the electric vehicle company Rivian’s board. [Forbes](https://www.forbes.com/sites/martineparis/2024/08/24/waymo-has-5-billion-google-ai-and-super-fans-can-amazon-tesla-and-uber-compete/)
+
+
 **AI Leadership:** Waymo’s deep experience and expertise in AI give it a competitive edge, particularly in developing robust and reliable autonomous systems.
 
 **Data Advantage:** Waymo has logged over 20 million miles of autonomous driving on public roads and billions more in simulations, providing a significant data advantage.
@@ -109,7 +112,7 @@ Waymo’s integration of AI into its business strategy has made it a leader in t
 
 ## WAYMO RESEARCH SOURCES
 
-1. Waymo.(2023).Waymo’sSafetyReport:AutonomousVehiclePerformanceand Safety Metrics. Retrieved from [[waymo](https://waymo.com/)]
+1. Waymo.(2023).Waymo’sSafetyReport:AutonomousVehiclePerformanceand Safety Metrics. Retrieved from [waymo](https://waymo.com/)
 2. AlphabetInc.(2023).Alphabet’sQ22023EarningsReport.RetrievedfromAlphabet Investor Relations.
 3. Bloomberg(2023).WaymoValuationReaches$30BillionasAutonomousDriving Leader. Retrieved from Bloomberg.
 4. TechCrunch(2023).WaymoRaises$3BillionfromExternalInvestors.Retrieved from TechCrunch.
