@@ -109,7 +109,7 @@ Waymo’s integration of AI into its business strategy has made it a leader in t
 
 ## WAYMO RESEARCH SOURCES
 
-1. Waymo.(2023).Waymo’sSafetyReport:AutonomousVehiclePerformanceand Safety Metrics. Retrieved from Waymo OJicial Website.
+1. Waymo.(2023).Waymo’sSafetyReport:AutonomousVehiclePerformanceand Safety Metrics. Retrieved from [[waymo](https://waymo.com/)]
 2. AlphabetInc.(2023).Alphabet’sQ22023EarningsReport.RetrievedfromAlphabet Investor Relations.
 3. Bloomberg(2023).WaymoValuationReaches$30BillionasAutonomousDriving Leader. Retrieved from Bloomberg.
 4. TechCrunch(2023).WaymoRaises$3BillionfromExternalInvestors.Retrieved from TechCrunch.
