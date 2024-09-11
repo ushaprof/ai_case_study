@@ -3,7 +3,7 @@
 <br>
 <img src="https://github.com/ushaprof/ai_case_study/blob/main/Images/waymo_logo.png">
 ## WAYMO Origins and Background:
- Waymo, a subsidiary of Alphabet Inc., was spun out from Google’s self-driving car project in 2016. The company has focused on commercializing its AI-driven autonomous vehicle technology, targeting sectors like ride-hailing, logistics, and partnerships with automakers. Waymo’s mission is to make transportation safer and more accessible by leveraging advanced AI and machine learning.
+ Waymo, a subsidiary of Alphabet Inc., was spun out from Google’s self-driving car project in 2016. The company has focused on commercializing its AI-driven autonomous vehicle technology, targeting sectors like ride-hailing, logistics, and partnerships with automakers. Waymo’s mission is to make transportation safer and more accessible by leveraging advanced AI and machine learning.[TechCrunch](https://techcrunch.com/2016/07/08/googles-self-driving-car-project-has-a-new-legal-lead/)
  “Way forward in mobile” Waymo evolved from Google’s Chauffeur, co-founded by Anthony Levandowski and Sebastian Thrun.
  <br>
 
@@ -120,7 +120,7 @@ Waymo’s integration of AI into its business strategy has made it a leader in t
 6. Reuters(2023).Waymo’sExpansionPlansandRegulatoryChallenges.Retrieved from Reuters.
 7. Gartner(2023).AutonomousVehicleMarketOverview:TrendsandForecasts. Retrieved from Gartner.
 8. UPSandWaymo.(2022).CollaboratingonAutonomousDelivery:ACaseStudy. Retrieved from UPS Press Release.
-9. TechCrunch(2016).Google’sSelf-DrivingCarUnitSpinsoutasWaymo.Retrieved from TechCrunch. 
+9. TechCrunch(2016).Google’sSelf-DrivingCarUnitSpinsoutasWaymo.Retrieved from [TechCrunch](https://techcrunch.com/2016/07/08/googles-self-driving-car-project-has-a-new-legal-lead/) 
 10. Forbes(2024).Waymo-has- 5-billion-google-ai-and-super-fans-can-amazon-tesla-and-uber-compete. Retrieved from Forbes.
 11. Stash (2024) Largest companies by market cap. Retrieved from Stash.
 12. Argonne National Laboratory(2024). New Science-Machine Partnerships. Retrieved from [anl.gov](https://www.anl.gov)
