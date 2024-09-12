@@ -43,7 +43,7 @@ technology into their vehicles.
 
 **Aurora Innovation:** Aurora collaborates with trucking companies and automakers to deploy autonomous technology across various sectors.
 
-## NEWER TRENDY COMPETITORS INCLUDE Amazon’s ZOOX, Hyundai/Aptiv collab MOTIONAL, Nuro, Aurora, Pony.ai, Argo.ai
+## NEWER TRENDY COMPETITORS INCLUDE Amazon’s ZOOX, Hyundai/Aptiv collab MOTIONAL, Nuro, Aurora, Pony.ai, Argo.ai [Forbes](https://www.forbes.com/sites/martineparis/2024/08/24/waymo-has-5-billion-google-ai-and-super-fans-can-amazon-tesla-and-uber-compete/)
 
 <br>
 
