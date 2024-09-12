@@ -119,9 +119,17 @@ and machine learning, as well as in hardware for autonomous vehicles.
 ### Challenges and Risks:
 
 **Technological Risks:** Developing reliable and safe AI-driven autonomous vehicles is complex, and any setbacks could impact Waymo’s market position.
+
+> Waymo Chief Product Officer, Mr. Panigrahi says that safety continues to be a top priority for Waymo in its product development and that autonomous vehicles could save thousands of lives as a safer alternative to distracted or impaired drivers. [The New York Times](https://www.nytimes.com/2024/09/04/technology/waymo-expansion-alphabet.html)
+
 **Collaborative Innovation:** Might result in copyright, and intellectual property fraud, choking revenue streams.
+
 **Regulatory Compliance:** This is a slow, deliberative process—collaborating with regulatory agencies such as NHTSA is the surest way to gain public regard in the long run.
+
 **Public Trust and Acceptance:** Gaining public trust is crucial for the adoption of autonomous vehicles, and any incidents could set back progress significantly.
+
+>	“Waymo has not had the big crash yet,” said Phil Koopman, an engineering professor at Carnegie Mellon University who specializes in autonomous vehicles. “I don’t know if they will have a big, embarrassing, problematic crash, and based upon the data, they don’t know, either.”  [The Daily Podcast, the NYTimes.](https://www.nytimes.com/2023/08/23/podcasts/the-daily/driverless-cars-san-francisco.html)
+
 
 ## WAYMO WAY FORWARD UPSIDES
 Waymo’s integration of AI into its business strategy has made it a leader in the autonomous driving industry. However, the company faces significant challenges in scaling operations, achieving profitability, and gaining regulatory approval. Continued innovation and strategic partnerships will be critical for Waymo’s long-term success.
@@ -129,7 +137,18 @@ Waymo’s integration of AI into its business strategy has made it a leader in t
 ### WAYMO Recommendations
 
 **Expand Partnerships:** Waymo should continue to seek out partnerships with automakers, logistics companies, and technology providers to scale its AI technology. YouTube is an excellent in-house example of how to expand a brand continuously across platforms and industries.
+
 **Focus on Cost Efficiency:** Improving cost efficiency will be key to achieving profitability in the highly competitive AI and autonomous vehicle markets.
+
+> 	It’s unclear exactly how much money Alphabet is spending on Waymo, but a collection of Alphabet’s experimental businesses that includes Waymo had an operating loss of about $2 billion in the first half of this year. “Waymo most likely accounted for a significant portion of that loss,” said Mark Mahaney, the head of Evercore ISI’s internet research team.  [The New York Times](https://www.nytimes.com/2024/09/04/technology/waymo-expansion-alphabet.html)
+
+**Focus on increasing Voluntary Public adoption/buy-in through enhancing immersive experiences.
+
+>	Waymo’s head of product and customer research Megan Neese says the company is in the process of fine-tuning location accuracy of drop-offs and pick-ups and optimizing the music experience.  Features like Google Voice Assistant, cabin configuration for productivity, and entertainment, are near-term possibilities. [Forbes](https://www.forbes.com/sites/martineparis/2024/08/24/waymo-has-5-billion-google-ai-and-super-fans-can-amazon-tesla-and-uber-compete/) Very likely, Waymo is a Google sib after all.
+
+
+
+
 **Safety Awareness Campaigns relating to Autonomous Vehicles:** Imperative to launch immersive, responsive, updated public information campaigns on SAFETY of vehicles, technology, public, roads, buildings, and more. Analogous to aviation safety protocols, community safety standards and regulatory boundary conditions.
 
 ## WAYMO RESEARCH SOURCES
