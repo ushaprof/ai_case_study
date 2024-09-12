@@ -92,18 +92,29 @@ and machine learning, as well as in hardware for autonomous vehicles.
 
 
 **Operational Costs:** Operating a fleet of autonomous vehicles, maintaining infrastructure, and ensuring compliance with regulatory requirements are significant cost drivers.
+
+> 	Waymo’s sixth-generation vehicles, which it started testing in July, will also lower costs, Mr. Panigrahi added. “So, as we swap these fleets out, the profitability will jump further,” he said. A Chinese electric automaker, Zeekr, makes the new vehicles. [The Daily Podcast, the NYTimes.](https://www.nytimes.com/2023/08/23/podcasts/the-daily/driverless-cars-san-francisco.html)
+
 <br>
 
 ## Economic Impact:
+
 ### Market Valuation: 
-**Waymo’s August 2024 valuation:**  Estimated at around $30 billion, making it one of the most valuable autonomous driving companies in the world.
-**Cost Savings:** Waymo’s technology has the potential to reduce costs in the transportation and logistics sectors by minimizing the need for human drivers and increasing efficiency.
+**Waymo’s August 2024 valuation:**  Estimated at around $30 billion, making it one of the most valuable autonomous driving companies in the world. [Bloomberg](https://www.bloomberg.com/)
+
+**Cost Savings:** Waymo’s technology has the potential to reduce costs in the transportation and logistics sectors by minimizing the need for human drivers and increasing efficiency.[Bloomberg](https://www.bloomberg.com/)
+
  
 ## WAYMO BUSINESS RISK ANALYSIS 
+
 ### Opportunities for Growth:
+
 **Global Expansion:**  Expanding to international markets represents a significant growth opportunity, provided Waymo can navigate the regulatory and operational challenges.
 
 **AI Innovation:** Ongoing innovation in AI and machine learning could enhance the capabilities of Waymo’s autonomous vehicles, potentially opening new revenue streams.
+
+> 	“Artificial intelligence has triggered a significant transformation of human society that involves a stronger human-machine partnership.”  Says Marius Stan, Program Lead, Intelligent Materials Design at the Department of Energy’s Argonne National Laboratory. The forecast calls for stronger, speedier resolution through quicker innovation. [Argonne National Laboratory](https://www.anl.gov/article/the-new-sciencemachine-partnerships)
+
 
 ### Challenges and Risks:
 
