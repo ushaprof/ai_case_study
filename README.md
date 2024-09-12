@@ -184,10 +184,10 @@ Waymo’s integration of AI into its business strategy has made it a leader in t
 
 ### Appendix A: Financial Performance Metrics (2023) 
 
-**Total Investment Raised:** $3 billion
-**Estimated Annual Revenue:** $200-300 million
-**R&D Expenses:** Estimated at $1 billion annually Market Valuation $30 billion
-**Operating Loss:** Estimated at $500-700 million
+Total Investment Raised:** $3 billion
+Estimated Annual Revenue:** $200-300 million
+R&D Expenses:** Estimated at $1 billion annually Market Valuation $30 billion
+Operating Loss:** Estimated at $500-700 million
 
 
 ### Appendix B: Comparative Analysis of AI Strategies (Waymo vs. Competitors)
