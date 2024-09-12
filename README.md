@@ -165,11 +165,14 @@ Waymo’s integration of AI into its business strategy has made it a leader in t
 7. Gartner(2023).AutonomousVehicleMarketOverview:TrendsandForecasts. Retrieved from Gartner.
 8. UPSandWaymo.(2022).CollaboratingonAutonomousDelivery:ACaseStudy. Retrieved from UPS Press Release.
 9. TechCrunch(2016).Google’sSelf-DrivingCarUnitSpinsoutasWaymo.Retrieved from [TechCrunch](https://techcrunch.com/2016/07/08/googles-self-driving-car-project-has-a-new-legal-lead/) 
-10. Forbes(2024).Waymo-has- 5-billion-google-ai-and-super-fans-can-amazon-tesla-and-uber-compete. Retrieved from Forbes.
+10. Forbes(2024).Waymo-has- 5-billion-google-ai-and-super-fans-can-amazon-tesla-and-uber-compete. Retrieved from [Forbes](https://www.forbes.com/sites/martineparis/2024/08/24/waymo-has-5-billion-google-ai-and-super-fans-can-amazon-tesla-and-uber-compete/)
 11. Stash (2024) Largest companies by market cap. Retrieved from [Stash](https://www.stash.com/learn/largest-companies-by-market-cap)
 12. Argonne National Laboratory(2024). New Science-Machine Partnerships. Retrieved from [anl.gov](https://www.anl.gov)
 13. The New York Times (2024). Waymo Turns Toward Making Money as it Expands Driverless Car Business.  Retrieved from [The New York Times](https://www.nytimes.com/2024/09/04/technology/waymo-expansion-alphabet.html)
 14. The New York Times (2023) Ready or Not, Driveress Cars Are Here. Retrieved from [The Daily Podcast, the NYTimes.](https://www.nytimes.com/2023/08/23/podcasts/the-daily/driverless-cars-san-francisco.html)
+15. Axios. (2023).  Self Driving Cars Robotaxis, Trust. Retrieved from [Axios](https://www.axios.com/2023/11/27/self-driving-cars-robotaxis-trust)
+16. MIT Technology Review (2024) What’s Next for Robotaxis? Retrieved from [MIT Technology Review](https://www.technologyreview.com/2024/01/23/1086936/whats-next-for-robotaxis-2024/)
+
 
 
 
