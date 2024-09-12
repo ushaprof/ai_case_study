@@ -70,15 +70,20 @@ Waymo faces a complex regulatory environment, with varying laws and requirements
 Scaling operations involves significant investments in infrastructure, including high- performance computing, sensor technology, and network capabilities. Additionally, expanding to new markets requires extensive testing and adaptation to local conditions.
  <br> 
 
-## WAYMO Financial Performance, Investment and Revenue Growth:
+## WAYMO Financial Performance
+
+##Investment and Revenue Growth:
 
 ### Funding Structure: 
 As of August 2024, Waymo is not a publicly traded company. It is a privately held subsidiary of Alphabet, Google's parent company, and is not oJered on any stock exchange. Waymo shares are held by its founders, employees, management, venture capital funds, and other private individuals and institutional investors. In2021,Waymoraised$2.5billionfrominvestors,includingAndreessen Horowitz, AutoNation, and Fidelity Management & Research Company. Investors can buy and sell Waymo stock through private company marketplaces like EquityZen and Forge Global. [Stash](https://www.stash.com/learn/largest-companies-by-market-cap)
 
 ### Investment: 
-Waymo has attracted over $5 billion in external investment, including from Silver Lake, Canada Pension Plan Investment Board (CPPIB), and Mubadala Investment Company. Alphabet has also continued to fund Waymo’s operations.
+Waymo has attracted over $5 billion in external investment, including from Silver Lake, Canada Pension Plan Investment Board (CPPIB), and Mubadala Investment Company. Alphabet has also continued to fund Waymo’s operations. [Forbes](https://www.forbes.com/sites/martineparis/2024/08/24/waymo-has-5-billion-google-ai-and-super-fans-can-amazon-tesla-and-uber-compete/)
+
 ### Revenue Growth: 
-As of 2023, Waymo’s revenue is estimated to be in the hundreds of millions, primarily from its ride-hailing services and partnerships. However, profitability remains elusive due to the high costs associated with R&D and scaling operations.
+As of 2023, Waymo’s revenue is estimated to be in the hundreds of millions, primarily from its ride-hailing services and partnerships. However, profitability remains elusive due to the high costs associated with R&D and scaling operations. However, profitability remains elusive due to the high costs associated with R & D and scaling operations. [The New York Times](https://www.nytimes.com/2024/09/04/technology/waymo-expansion-alphabet.html)
+
+
 ### Cost Structure:
 **R&D Costs:** Waymo invests heavily in research and development, particularly in AI
 and machine learning, as well as in hardware for autonomous vehicles.
@@ -125,8 +130,8 @@ Waymo’s integration of AI into its business strategy has made it a leader in t
 9. TechCrunch(2016).Google’sSelf-DrivingCarUnitSpinsoutasWaymo.Retrieved from [TechCrunch](https://techcrunch.com/2016/07/08/googles-self-driving-car-project-has-a-new-legal-lead/) 
 10. Forbes(2024).Waymo-has- 5-billion-google-ai-and-super-fans-can-amazon-tesla-and-uber-compete. Retrieved from Forbes.
 11. Stash (2024) Largest companies by market cap. Retrieved from [Stash](https://www.stash.com/learn/largest-companies-by-market-cap)
-
 12. Argonne National Laboratory(2024). New Science-Machine Partnerships. Retrieved from [anl.gov](https://www.anl.gov)
+13. The New York Times (2024). Waymo Turns Toward Making Money as it Expands Driverless Car Business.  Retrieved from [The New York Times](https://www.nytimes.com/2024/09/04/technology/waymo-expansion-alphabet.html)
 
 
 ## WAYMO Appendices
