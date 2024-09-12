@@ -3,16 +3,16 @@
 <br>
 <img src="https://github.com/ushaprof/ai_case_study/blob/main/Images/waymo_logo.png">
 ## WAYMO Origins and Background:
- Waymo, a subsidiary of Alphabet Inc., was spun out from Google’s self-driving car project in 2016. The company has focused on commercializing its AI-driven autonomous vehicle technology, targeting sectors like ride-hailing, logistics, and partnerships with automakers. Waymo’s mission is to make transportation safer and more accessible by leveraging advanced AI and machine learning.[TechCrunch](https://techcrunch.com/2016/07/08/googles-self-driving-car-project-has-a-new-legal-lead/)
+ Waymo, a subsidiary of Alphabet Inc., was spun out from Google’s self-driving car project in 2016. The company has focused on commercializing its AI-driven autonomous vehicle technology, targeting sectors like ride-hailing, logistics, and partnerships with automakers. Waymo’s mission is to make transportation safer and more accessible by leveraging advanced AI and machine learning. [TechCrunch](https://techcrunch.com/2016/07/08/googles-self-driving-car-project-has-a-new-legal-lead/)
  
- “Way forward in mobile” Waymo evolved from Google’s Chauffeur, co-founded by Anthony Levandowski and Sebastian Thrun.[waymo](https://waymo.com/)
+ “Way forward in mobile” Waymo evolved from Google’s Chauffeur, co-founded by Anthony Levandowski and Sebastian Thrun. [waymo](https://waymo.com/)
  <br>
 
 ## WAYMO BUSINESS STRATEGY AND MODEL
 <br>
 
 **Value Proposition:**
-Waymo’s primary value proposition is its AI-driven autonomous driving technology, which aims to reduce human error and improve safety. By oJering solutions in ride-hailing, logistics, and licensing its technology to automakers, Waymo is well-positioned to capitalize on the growing demand for autonomous solutions.
+Waymo’s primary value proposition is its AI-driven autonomous driving technology, which aims to reduce human error and improve safety. By offering solutions in ride-hailing, logistics, and licensing its technology to automakers, Waymo is well-positioned to capitalize on the growing demand for autonomous solutions. [Bloomberg](https://www.bloomberg.com/)
 <br>
 
 ### Revenue Streams:
@@ -39,7 +39,7 @@ technology into their vehicles.
 
 **Tesla:** Tesla’s Autopilot and Full Self-Driving (FSD) systems are key competitors in the autonomous driving space, though Tesla’s approach focuses more on driver assistance rather than full autonomy.
 
-**Cruise (GM):** Cruise oJers autonomous ride-hailing services in San Francisco and has secured significant funding to scale its operations.
+**Cruise (GM):** Cruise offers autonomous ride-hailing services in San Francisco and has secured significant funding to scale its operations.
 
 **Aurora Innovation:** Aurora collaborates with trucking companies and automakers to deploy autonomous technology across various sectors.
 
@@ -115,7 +115,7 @@ Waymo’s integration of AI into its business strategy has made it a leader in t
 
 1. Waymo.(2023).Waymo’sSafetyReport:AutonomousVehiclePerformanceand Safety Metrics. Retrieved from [waymo](https://waymo.com/)
 2. AlphabetInc.(2023).Alphabet’sQ22023EarningsReport.RetrievedfromAlphabet Investor Relations.
-3. Bloomberg(2023).WaymoValuationReaches$30BillionasAutonomousDriving Leader. Retrieved from Bloomberg.
+3. Bloomberg(2023).WaymoValuationReaches$30BillionasAutonomousDriving Leader. Retrieved from [Bloomberg](https://www.bloomberg.com/)
 4. TechCrunch(2023).WaymoRaises$3BillionfromExternalInvestors.Retrieved from TechCrunch.
 5. NationalHighwayTrafficSafetyAdministration(NHTSA).(2022).Automated Vehicles for Safety. Retrieved from NHTSA OJicial Website.
 6. Reuters(2023).Waymo’sExpansionPlansandRegulatoryChallenges.Retrieved from Reuters.
