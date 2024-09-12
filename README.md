@@ -142,14 +142,17 @@ Waymo’s integration of AI into its business strategy has made it a leader in t
 
 > 	It’s unclear exactly how much money Alphabet is spending on Waymo, but a collection of Alphabet’s experimental businesses that includes Waymo had an operating loss of about $2 billion in the first half of this year. “Waymo most likely accounted for a significant portion of that loss,” said Mark Mahaney, the head of Evercore ISI’s internet research team.  [The New York Times](https://www.nytimes.com/2024/09/04/technology/waymo-expansion-alphabet.html)
 
-**Focus on increasing Voluntary Public adoption/buy-in through enhancing immersive experiences.
+**Focus on increasing Voluntary Public adoption/buy-in through enhancing immersive experiences:**
 
 >	Waymo’s head of product and customer research Megan Neese says the company is in the process of fine-tuning location accuracy of drop-offs and pick-ups and optimizing the music experience.  Features like Google Voice Assistant, cabin configuration for productivity, and entertainment, are near-term possibilities. [Forbes](https://www.forbes.com/sites/martineparis/2024/08/24/waymo-has-5-billion-google-ai-and-super-fans-can-amazon-tesla-and-uber-compete/) Very likely, Waymo is a Google sib after all.
 
 
+**Safety Awareness Campaigns relating to Autonomous Vehicles:** Imperative to launch immersive, responsive, updated public information campaigns on SAFETY of vehicles, technology, public, roads, buildings, and more. Analogous to aviation safety protocols, regulations, zoning, noise and traffic control roles and responsibilities.
 
+> 	"The way you build trust is to be transparent," says Advocates president Cathy Chase. She says AV companies should be candid: "'These are the limitations of the vehicle. These are our concerns. This is what we're trying to overcome." But Chase says, "We don't see that."   "It's not about blame," echoes Edwin Olson, CEO of May Mobility. "It's about learning" what improvements are needed. [The New York Times](https://www.nytimes.com/2024/09/04/technology/waymo-expansion-alphabet.html)
 
-**Safety Awareness Campaigns relating to Autonomous Vehicles:** Imperative to launch immersive, responsive, updated public information campaigns on SAFETY of vehicles, technology, public, roads, buildings, and more. Analogous to aviation safety protocols, community safety standards and regulatory boundary conditions.
+##CASE STUDY TAKEAWAY--Like human drivers, self-driving technology will never be perfect — but people will surely come to trust it more if they better understand its failings.
+
 
 ## WAYMO RESEARCH SOURCES
 
