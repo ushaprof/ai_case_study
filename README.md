@@ -87,6 +87,10 @@ As of 2023, Waymo’s revenue is estimated to be in the hundreds of millions, pr
 ### Cost Structure:
 **R&D Costs:** Waymo invests heavily in research and development, particularly in AI
 and machine learning, as well as in hardware for autonomous vehicles.
+
+> 	Saswat Panigrahi, Waymo’s chief product officer, said in an interview that the company was betting that its fixed costs, like the expense of lidar sensors and the number of human monitors it needs, will decrease over time. [The Daily Podcast, the NYTimes.](https://www.nytimes.com/2023/08/23/podcasts/the-daily/driverless-cars-san-francisco.html)
+
+
 **Operational Costs:** Operating a fleet of autonomous vehicles, maintaining infrastructure, and ensuring compliance with regulatory requirements are significant cost drivers.
 <br>
 
@@ -132,6 +136,8 @@ Waymo’s integration of AI into its business strategy has made it a leader in t
 11. Stash (2024) Largest companies by market cap. Retrieved from [Stash](https://www.stash.com/learn/largest-companies-by-market-cap)
 12. Argonne National Laboratory(2024). New Science-Machine Partnerships. Retrieved from [anl.gov](https://www.anl.gov)
 13. The New York Times (2024). Waymo Turns Toward Making Money as it Expands Driverless Car Business.  Retrieved from [The New York Times](https://www.nytimes.com/2024/09/04/technology/waymo-expansion-alphabet.html)
+14. The New York Times (2023) Ready or Not, Driveress Cars Are Here. Retrieved from [The Daily Podcast, the NYTimes.](https://www.nytimes.com/2023/08/23/podcasts/the-daily/driverless-cars-san-francisco.html)
+
 
 
 ## WAYMO Appendices
