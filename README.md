@@ -3,7 +3,8 @@
 <br>
 <img src="https://github.com/ushaprof/ai_case_study/blob/main/Images/waymo_logo.png">
 ## WAYMO Origins and Background:
- Waymo, a subsidiary of Alphabet Inc., was spun out from Google’s self-driving car project in 2016. The company has focused on commercializing its AI-driven autonomous vehicle technology, targeting sectors like ride-hailing, logistics, and partnerships with automakers. Waymo’s mission is to make transportation safer and more accessible by leveraging advanced AI and machine learning. [TechCrunch](https://techcrunch.com/2016/07/08/googles-self-driving-car-project-has-a-new-legal-lead/)
+
+**Waymo, a subsidiary of Alphabet Inc., was spun out from Google’s self-driving car project in 2016. The company has focused on commercializing its AI-driven autonomous vehicle technology, targeting sectors like ride-hailing, logistics, and partnerships with automakers. Waymo’s mission is to make transportation safer and more accessible by leveraging advanced AI and machine learning. [TechCrunch](https://techcrunch.com/2016/12/13/googles-self-driving-car-unit-spins-out-as-waymo/)
  
  
  “Way forward in mobile” Waymo evolved from Google’s Chauffeur, co-founded by Anthony Levandowski and Sebastian Thrun. [waymo](https://waymo.com/)
@@ -162,9 +163,9 @@ Waymo’s integration of AI into its business strategy has made it a leader in t
 1. Waymo.(2024).Waymo’sSafetyReport:AutonomousVehiclePerformanceand Safety Metrics. Retrieved from [waymo](https://waymo.com/)
 2. AlphabetInc.(2024).Alphabet’sQ22024EarningsReport.Retrievedfrom [Alphabet Investor Relations](https://abc.xyz/investor/)
 3. Bloomberg(2023).WaymoValuationReaches$30BillionasAutonomousDriving Leader. Retrieved from [Bloomberg](https://www.bloomberg.com/)
-4. TechCrunch(2023).WaymoRaises$3BillionfromExternalInvestors.Retrieved from TechCrunch.
+4. TechCrunch(2023).WaymoRaises$3BillionfromExternalInvestors.Retrieved from [TechCrunch](https://techcrunch.com/2020/05/12/waymo-expands-first-external-investment-round-to-3-billion/)
 5. NationalHighwayTrafficSafetyAdministration(NHTSA).(2022).Automated Vehicles for Safety. Retrieved from [NHTSA](https://www.nhtsa.gov/sites/nhtsa.gov/files/13069a-ads2.0_090617_v9a_tag.pdf)
-6. Reuters(2023).Waymo’sExpansionPlansandRegulatoryChallenges.Retrieved from Reuters.
+6. Reuters(2023).Waymo’sExpansionPlansandRegulatoryChallenges.Retrieved from [Reuters](https://www.reuters.com/technology/california-suspends-waymos-application-expand-parts-la-sfs-peninsula-2024-02-21/)
 7. Gartner(2023).AutonomousVehicleMarketOverview:TrendsandForecasts. Retrieved from [Gartner](https://www.gartner.com/en/newsroom/press-releases/2019-11-14-gartner-forecasts-more-than-740000-autonomous-ready-vehicles-to-be-added-to-global-market-in-2023)
 8. UPSandWaymo.(2022).CollaboratingonAutonomousDelivery:ACaseStudy. Retrieved from UPS Press Release. [UPS](https://about.ups.com/us/en/newsroom/press-releases/innovation-driven/ups-and-waymo-partner-to-begin-self-driving-package-pickup-in-arizona.html)
 9. TechCrunch(2016).Google’sSelf-DrivingCarUnitSpinsoutasWaymo.Retrieved from [TechCrunch](https://techcrunch.com/2016/07/08/googles-self-driving-car-project-has-a-new-legal-lead/) 
