@@ -5,6 +5,7 @@
 ## WAYMO Origins and Background:
  Waymo, a subsidiary of Alphabet Inc., was spun out from Google’s self-driving car project in 2016. The company has focused on commercializing its AI-driven autonomous vehicle technology, targeting sectors like ride-hailing, logistics, and partnerships with automakers. Waymo’s mission is to make transportation safer and more accessible by leveraging advanced AI and machine learning. [TechCrunch](https://techcrunch.com/2016/07/08/googles-self-driving-car-project-has-a-new-legal-lead/)
  
+ 
  “Way forward in mobile” Waymo evolved from Google’s Chauffeur, co-founded by Anthony Levandowski and Sebastian Thrun. [waymo](https://waymo.com/)
  <br>
 
@@ -75,7 +76,9 @@ Scaling operations involves significant investments in infrastructure, including
 ##Investment and Revenue Growth:
 
 ### Funding Structure: 
-As of August 2024, Waymo is not a publicly traded company. It is a privately held subsidiary of Alphabet, Google's parent company, and is not oJered on any stock exchange. Waymo shares are held by its founders, employees, management, venture capital funds, and other private individuals and institutional investors. In2021,Waymoraised$2.5billionfrominvestors,includingAndreessen Horowitz, AutoNation, and Fidelity Management & Research Company. Investors can buy and sell Waymo stock through private company marketplaces like EquityZen and Forge Global. [Stash](https://www.stash.com/learn/largest-companies-by-market-cap)
+As of August 2024, Waymo is not a publicly traded company. It is a privately held subsidiary of Alphabet, Google's parent company, and is not oJered on any stock exchange. Waymo shares are held by its founders, employees, management, venture capital funds, and other private individuals and institutional investors. [Alphabet Investor Relations](https://abc.xyz/investor/)
+
+In2021,Waymoraised$2.5billionfrominvestors,includingAndreessen Horowitz, AutoNation, and Fidelity Management & Research Company. Investors can buy and sell Waymo stock through private company marketplaces like EquityZen and Forge Global. [Stash](https://www.stash.com/learn/largest-companies-by-market-cap)
 
 ### Investment: 
 Waymo has attracted over $5 billion in external investment, including from Silver Lake, Canada Pension Plan Investment Board (CPPIB), and Mubadala Investment Company. Alphabet has also continued to fund Waymo’s operations. [Forbes](https://www.forbes.com/sites/martineparis/2024/08/24/waymo-has-5-billion-google-ai-and-super-fans-can-amazon-tesla-and-uber-compete/)
@@ -156,14 +159,14 @@ Waymo’s integration of AI into its business strategy has made it a leader in t
 
 ## WAYMO RESEARCH SOURCES
 
-1. Waymo.(2023).Waymo’sSafetyReport:AutonomousVehiclePerformanceand Safety Metrics. Retrieved from [waymo](https://waymo.com/)
-2. AlphabetInc.(2023).Alphabet’sQ22023EarningsReport.RetrievedfromAlphabet Investor Relations.
+1. Waymo.(2024).Waymo’sSafetyReport:AutonomousVehiclePerformanceand Safety Metrics. Retrieved from [waymo](https://waymo.com/)
+2. AlphabetInc.(2024).Alphabet’sQ22024EarningsReport.Retrievedfrom [Alphabet Investor Relations](https://abc.xyz/investor/)
 3. Bloomberg(2023).WaymoValuationReaches$30BillionasAutonomousDriving Leader. Retrieved from [Bloomberg](https://www.bloomberg.com/)
 4. TechCrunch(2023).WaymoRaises$3BillionfromExternalInvestors.Retrieved from TechCrunch.
 5. NationalHighwayTrafficSafetyAdministration(NHTSA).(2022).Automated Vehicles for Safety. Retrieved from [NHTSA](https://www.nhtsa.gov/sites/nhtsa.gov/files/13069a-ads2.0_090617_v9a_tag.pdf)
 6. Reuters(2023).Waymo’sExpansionPlansandRegulatoryChallenges.Retrieved from Reuters.
-7. Gartner(2023).AutonomousVehicleMarketOverview:TrendsandForecasts. Retrieved from Gartner.
-8. UPSandWaymo.(2022).CollaboratingonAutonomousDelivery:ACaseStudy. Retrieved from UPS Press Release.
+7. Gartner(2023).AutonomousVehicleMarketOverview:TrendsandForecasts. Retrieved from [Gartner](https://www.gartner.com/en/newsroom/press-releases/2019-11-14-gartner-forecasts-more-than-740000-autonomous-ready-vehicles-to-be-added-to-global-market-in-2023)
+8. UPSandWaymo.(2022).CollaboratingonAutonomousDelivery:ACaseStudy. Retrieved from UPS Press Release. [UPS](https://about.ups.com/us/en/newsroom/press-releases/innovation-driven/ups-and-waymo-partner-to-begin-self-driving-package-pickup-in-arizona.html)
 9. TechCrunch(2016).Google’sSelf-DrivingCarUnitSpinsoutasWaymo.Retrieved from [TechCrunch](https://techcrunch.com/2016/07/08/googles-self-driving-car-project-has-a-new-legal-lead/) 
 10. Forbes(2024).Waymo-has- 5-billion-google-ai-and-super-fans-can-amazon-tesla-and-uber-compete. Retrieved from [Forbes](https://www.forbes.com/sites/martineparis/2024/08/24/waymo-has-5-billion-google-ai-and-super-fans-can-amazon-tesla-and-uber-compete/)
 11. Stash (2024) Largest companies by market cap. Retrieved from [Stash](https://www.stash.com/learn/largest-companies-by-market-cap)
