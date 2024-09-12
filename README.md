@@ -73,7 +73,8 @@ Scaling operations involves significant investments in infrastructure, including
 ## WAYMO Financial Performance, Investment and Revenue Growth:
 
 ### Funding Structure: 
-As of August 2024, Waymo is not a publicly traded company. It is a privately held subsidiary of Alphabet, Google's parent company, and is not oJered on any stock exchange. Waymo shares are held by its founders, employees, management, venture capital funds, and other private individuals and institutional investors. In2021,Waymoraised$2.5billionfrominvestors,includingAndreessen Horowitz, AutoNation, and Fidelity Management & Research Company. Investors can buy and sell Waymo stock through private company marketplaces like EquityZen and Forge Global.
+As of August 2024, Waymo is not a publicly traded company. It is a privately held subsidiary of Alphabet, Google's parent company, and is not oJered on any stock exchange. Waymo shares are held by its founders, employees, management, venture capital funds, and other private individuals and institutional investors. In2021,Waymoraised$2.5billionfrominvestors,includingAndreessen Horowitz, AutoNation, and Fidelity Management & Research Company. Investors can buy and sell Waymo stock through private company marketplaces like EquityZen and Forge Global. [Stash](https://www.stash.com/learn/largest-companies-by-market-cap)
+
 ### Investment: 
 Waymo has attracted over $5 billion in external investment, including from Silver Lake, Canada Pension Plan Investment Board (CPPIB), and Mubadala Investment Company. Alphabet has also continued to fund Waymo’s operations.
 ### Revenue Growth: 
@@ -123,7 +124,8 @@ Waymo’s integration of AI into its business strategy has made it a leader in t
 8. UPSandWaymo.(2022).CollaboratingonAutonomousDelivery:ACaseStudy. Retrieved from UPS Press Release.
 9. TechCrunch(2016).Google’sSelf-DrivingCarUnitSpinsoutasWaymo.Retrieved from [TechCrunch](https://techcrunch.com/2016/07/08/googles-self-driving-car-project-has-a-new-legal-lead/) 
 10. Forbes(2024).Waymo-has- 5-billion-google-ai-and-super-fans-can-amazon-tesla-and-uber-compete. Retrieved from Forbes.
-11. Stash (2024) Largest companies by market cap. Retrieved from Stash.
+11. Stash (2024) Largest companies by market cap. Retrieved from [Stash](https://www.stash.com/learn/largest-companies-by-market-cap)
+
 12. Argonne National Laboratory(2024). New Science-Machine Partnerships. Retrieved from [anl.gov](https://www.anl.gov)
 
 
